@@ -1,0 +1,7 @@
+{
+  "name": "CampusFA — Finite Automaton for RITAGE Portal",
+  "description": "Interactive Theory of Computation college portal demonstrating DFA-based input validation, step-by-step automata simulation, custom DFA builder, and formal language verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
